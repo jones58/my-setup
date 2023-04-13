@@ -42,6 +42,8 @@ Apps i've downloaded and have used a little, or want to learn more about later:
 - Tower 
 - PostHaste
 - Emacs
+- Amethyst (tiling window manager)
+- Warp
 
 *most, if not all of these, can be found on Windows too.
 
