@@ -14,6 +14,10 @@ Apps i like:
 - FinderGo
 - Alfred
 - Blocs
+-  Amethyst (tiling window manager)
+- Final Cut Pro
+- Adobe Photoshop, Illustrator, Indesign
+- Pixelmator Pro
 
 Other:
 - [Dracula theme]([https://draculatheme.com/](https://draculatheme.com/)) (I use it everywhere possible on the above apps)
@@ -31,7 +35,6 @@ Apps i've downloaded and have used a little, or want to learn more about later:
 - Marsedit
 - Mamp pro
 - Transmit
-- Samuwrite
 - Processing
 - Jenkins
 - Hammerspoon
@@ -42,7 +45,6 @@ Apps i've downloaded and have used a little, or want to learn more about later:
 - Tower 
 - PostHaste
 - Emacs
-- Amethyst (tiling window manager)
 - Warp
 
 *most, if not all of these, can be found on Windows too.
