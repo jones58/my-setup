@@ -45,7 +45,7 @@ Apps i've downloaded and have used a little, or want to learn more about later:
 - Tower 
 - PostHaste
 - Emacs
-- Warp
+- [Warp](https://docs.warp.dev/getting-started/readme)
 
 *most, if not all of these, can be found on Windows too.
 
