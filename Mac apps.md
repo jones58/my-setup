@@ -10,7 +10,6 @@ Apps i like:
 - Todoist
 - Better Rename
 - Alfred 5
-- Blocs
 - Final Cut Pro
 - Adobe Photoshop, Illustrator, Indesign
 - Pixelmator Pro
@@ -79,5 +78,6 @@ Apps i've downloaded and have used a little, or want to learn more about later:
 - Quiet Reader
 - SyncThing
 - XCode
+- Blocs
 
 *most, if not all of these, can be found on Windows too.
