@@ -80,4 +80,4 @@ Apps i've downloaded and have used a little, or want to learn more about later:
 - XCode
 - Blocs
 
-*most, if not all of these, can be found on Windows too.
+*most of these can be found on Windows too.
