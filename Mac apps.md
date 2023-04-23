@@ -1,5 +1,5 @@
 Apps i like:
-- VS Code
+- VSCodium (VSCode without the spyware/telemetry)
 - Iterm 2
 - Obsidian
 - Github Desktop
