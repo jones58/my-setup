@@ -10,7 +10,7 @@ Apps i like:
 - Better Rename
 - Alfred 5
 - Final Cut Pro
-- Adobe Photoshop, Illustrator, Indesign
+- Adobe Photoshop, Illustrator, Indesign, Bridge
 - Pixelmator Pro
 - [Ryujinx]([https://ryujinx.org/](https://ryujinx.org/)) (Nintendo Switch Emulator) and RyuSak
 - Bitwarden
@@ -26,10 +26,16 @@ Apps i like:
 - Toggl Track
 - Web Catalog
 - [Run JS](https://github.com/lukehaas/RunJS)
-
+- AppCleaner
+- Authy Desktop
+- Better Rename 11
+- MegaSync
+- Transmission
+- Transmission
+- Transmission
 
 Tools (small apps which change default themes/behaviours): 
--  Amethyst (tiling window manager)
+- Amethyst (tiling window manager)
 - SwiftQuit
 - Better Discord (for applying Dracula Theme to Discord)
 - Magnet
@@ -37,6 +43,7 @@ Tools (small apps which change default themes/behaviours):
 - Shottr
 - The Unarchiver
 - [Hidden Bar](https://github.com/dwarvesf/hidden)
+- Balance Lock
 
 
 Other:
@@ -81,5 +88,25 @@ Apps i've downloaded and have used a little, or want to learn more about later:
 - XCode
 - Blocs
 - Pieces
+- Blender
+- Font Explorer X Pro
+- GIPHY CAPTURE
+- GrandPerspective
+- Handbrake
+- Hex fiend
+- ImageOptim
+- Latest
+- LibreOffice
+- Menuwhere
+- OmniDiskSweeper
+- Post Haste
+- SiteSucker Pro
+- Sketch
+- SnippetsLab
+- SoulseekQt
+- SplitPrint
+- System Designer
+- Calibre
+- unetbootin
 
-*most of these can be found on Windows too.
+*most of these can be found on Windows too
