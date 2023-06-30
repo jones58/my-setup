@@ -24,7 +24,6 @@ Apps i like:
 - Latest
 - LibreOffice
 - Toggl Track
-- Web Catalog
 - [Run JS](https://github.com/lukehaas/RunJS)
 - AppCleaner
 - Authy Desktop
